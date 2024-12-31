@@ -15,6 +15,7 @@ public class Git_2024041 {
      */
     public static void main(String[] args) {
         System.out.println("Laura Lemos Coelho, Student Number: 2024041");
+        System.out.println("Laura Lemos Coelho, Student Number: 2024041");
     }
     
 }
